@@ -20,11 +20,11 @@ The goal is to practice real-world SQL problem solving and showcase skills relev
 ## 🛠 Database Schema
 The database consists of 5 tables:
 
-- *Consumers_filled* – demographic details (age, city, budget, occupation, habits).  
-- *Restaurants* – restaurant attributes (location, alcohol service, parking, franchise, pricing).  
-- *Ratings* – ratings given by consumers (overall, food, service).  
-- *Consumer_Preferences* – cuisines preferred by each consumer.  
-- *Restaurant_Cuisines* – cuisines offered by each restaurant.  
+- Consumers table: Stores consumer demographics and preferences.
+- Restaurants table: Contains restaurant details like location, price, and services.
+- Restaurant-Cuisine table: Links restaurants to the cuisines they offer.
+- Consumer Preferences table: Records each consumer's preferred cuisines.
+- Ratings table: Stores consumer ratings for restaurants on various attributes.  
 
 📌 ER Diagram included in this repo for visualization.  
 
