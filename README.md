@@ -4,7 +4,7 @@ This SQL project on restaurant management and ratings. It includes database crea
 ## 📌 Project Overview
 This project is a database system built with SQL to help manage information about restaurants, consumers, cuisines, and ratings. It simulates a real-world restaurant review and recommendation system where users (consumers) can rate restaurants and express their food preferences. This system helps businesses understand customer tastes and improves dining recommendations. 
 
-The goal is to practice *real-world SQL problem solving* and showcase skills relevant for *Data Analyst / Data Science roles*.
+The goal is to practice real-world SQL problem solving and showcase skills relevant for *Data Analyst / Data Science roles*.
 
 ---
 
